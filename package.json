@@ -62,7 +62,8 @@
   },
   "dependencies": {
     "@ssw10j/fast-csv-format": "4.3.5",
-    "@ssw10j/fast-csv-parse": "4.3.7"
+    "@ssw10j/fast-csv-parse": "4.3.7",
+    "typescript": "^4.7.4"
   },
   "gitHead": "3dc859edb19924b315051e4c87d6273808a0de73",
   "react-native": {
